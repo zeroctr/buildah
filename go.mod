@@ -44,3 +44,5 @@ require (
 )
 
 replace github.com/sirupsen/logrus => github.com/sirupsen/logrus v1.4.2
+
+replace github.com/containers/storage => ./vendor/github.com/containers/storage
